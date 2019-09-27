@@ -1,0 +1,8 @@
+brain_games/__init__.py
+brain_games/brain_games.py
+brain_games/scripts/__init__.py
+vluyb_brain_games.egg-info/PKG-INFO
+vluyb_brain_games.egg-info/SOURCES.txt
+vluyb_brain_games.egg-info/dependency_links.txt
+vluyb_brain_games.egg-info/entry_points.txt
+vluyb_brain_games.egg-info/top_level.txt
